@@ -9,6 +9,8 @@ This is a simple To-do List application built with Laravel. It allows users to c
 - Delete tasks
 - View a list of all tasks with their status
 
+![todolaravel](https://github.com/user-attachments/assets/fec5e6d7-0072-4d8d-9102-04af5f57f759)
+
 ## Installation
 
 1. **Clone the repository**:
